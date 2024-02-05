@@ -1,0 +1,5 @@
+#Para especificar un archivo
+**/hellogit.txt
+
+#Para todos lo que sean txt
+#**/*.txt
